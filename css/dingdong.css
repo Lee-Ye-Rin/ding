@@ -1,0 +1,230 @@
+*{margin: 0; padding: 0;}
+ul{list-style: none;}
+
+html {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "ko";
+}
+
+body {
+    min-width: 100% !important;
+    height: 100%;
+    overflow-y: scroll !important;
+    background: url(/web/upload/bg_main.png) center center fixed no-repeat;
+}
+
+body, code, button, input, label, select, td, textarea {
+    zoom: 1;
+    font: 12px 'Nanum Gothic','Roboto','Verdana','Open Sans','Dotum','AppleGothic','돋움','Dotum','Helvetica','sans-serif','xeicon' !important;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    text-size-adjust: 100%;
+}
+
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, img {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: block;
+}
+
+div {
+    display: block;
+}
+
+.intro .alert {
+    margin: 2px 0 0;
+    background: #fff;
+}
+
+.intro .alert .inner {
+    width: 520px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px 0 50px 180px;
+    background: #fff url(//img.echosting.cafe24.com/skin/base_ko_KR/intro/bg_youth_protection.gif) 18px 62px no-repeat;
+    background-size: 110px;
+}
+
+.intro .menu-group-center {
+    margin: 35px 0;
+}
+
+.menu-group-center {
+    text-align: center;
+    font-size: 0;
+}
+
+ul {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.bound {
+    width: 1040px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.bound:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+element.style {
+    display: none;
+    padding: 20px 0;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:-webkit-any-link {
+    cursor: pointer;
+}
+
+.intro .member {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 520px;
+    margin: 0 auto;
+}
+
+.intro .member .ipin {
+    display: inline-block;
+    padding: 20px 3px;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+img, fieldset {
+    border: none;
+    vertical-align: top;
+}
+
+.intro .member .login .button, .intro .member .login [class^="btn"] {
+    position: absolute;
+    right: 0;
+    top: -7px;
+}
+
+.intro .alert .button {
+    float: right;
+    display: inline-block;
+    margin: 25px 0 0;
+}
+
+.intro .member .login .security {
+    margin: 5px 0 0;
+    color: #8f8f91;
+    font-size: 12px;
+}
+
+.intro .member .join a, .intro .member .join a:hover {
+    padding: 0 10px 0 12px;
+    font-size: 12px;
+    color: #2e2e2e;
+    text-decoration: none;
+    background: url(//img.echosting.cafe24.com/skin/base/common/ico_circle_arrow2.png) 0 50% no-repeat;
+}
+
+.intro .member .join {
+    padding: 16px 0 0 0;
+}
+
+.intro .member .snsArea {
+    overflow: hidden;
+    margin: 0 0 0 -3px;
+}
+
+.intro .member .snsArea li {
+    float: left;
+    margin: 7px 12px 5px 4px;
+}
+
+.menu-group-center {
+    text-align: center;
+    font-size: 0;
+}
+
+.menu-group-center li {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: normal;
+    word-spacing: normal;
+    padding-right: 25px;
+}
+
+#footer {
+    max-width: 1460px;
+    margin: 0 auto;
+    padding: 70px 0 50px 0;
+    overflow: hidden;
+}
+
+#footer h1 {
+    text-align: center;
+    padding: 36px 0;
+}
+
+#footer .footer-menu {
+    margin-bottom: 45px;
+}
+
+#footer .footer_company {
+    width: 39%;
+    margin: 0 0 0 1%;
+    font-size: 12px;
+    line-height: 23px;
+}
+
+#footer>div {
+    float: left;
+}
+
+#footer .cs {
+    width: 32%;
+    margin-right: 2%;
+}
+
+#footer>div {
+    float: left;
+}
+
+#footer .partner {
+    width: 24%;
+    text-align: left;
+}
+
+script {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
